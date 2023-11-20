@@ -1,6 +1,9 @@
 # PrimeiroDesafio
 Da série de desafios do Desmistificando a Linguagem de Programação C#
 
+![image](https://github.com/MarianaAfonsoFelix/PrimeiroDesafio/assets/40126162/c26fc778-d0f5-4c77-8c82-e663ddcd911a)
+
+
 # Instruções:
 
 1 — Crie uma nova solução e um novo projeto;
